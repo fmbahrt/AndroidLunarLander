@@ -1,0 +1,2 @@
+CHANGED,/Users/Bahrt/AndroidStudioProjects/AndoidGameEngine/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/dk/kea/bahrt/andoidgameengine/LunarLander/GameWorld$override.class
+CHANGED,/Users/Bahrt/AndroidStudioProjects/AndoidGameEngine/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

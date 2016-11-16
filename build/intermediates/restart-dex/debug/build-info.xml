@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="ldpi"
+    format="7"
+    timestamp="18884241314173"
+    token="4188276784551125505" >
+
+    <task
+        name="javac"
+        duration="543" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="59" />
+    <task
+        name="verifier"
+        duration="18" />
+
+    <artifact
+        location="/Users/Bahrt/AndroidStudioProjects/AndoidGameEngine/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build timestamp="18604715072738" >
+        <artifact
+            location="/Users/Bahrt/AndroidStudioProjects/AndoidGameEngine/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="18884241314173" >
+        <artifact
+            location="/Users/Bahrt/AndroidStudioProjects/AndoidGameEngine/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
